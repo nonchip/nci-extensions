@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class NCI_NiceController extends CI_Controller {
+class Nci_nicecontroller extends CI_Controller {
 
   public function __construct()
 	{
